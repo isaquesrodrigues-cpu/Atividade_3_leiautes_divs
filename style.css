@@ -15,8 +15,18 @@
 .amarelo{
     background-color: yellow;
     padding: 70px;
-    margin: 10px;
+    margin: 20px;
 }
 .esticar{
     padding-right: 279px;
+}
+
+.decer {
+    padding-bottom: 279px;
+}
+.aumentar{
+    padding-top: 279px;
+}
+.centralizar{
+    padding-bottom: 4pc;
 }
